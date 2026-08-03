@@ -54,4 +54,4 @@ A modern desktop application built with **Python** and **CustomTkinter** that al
 👨‍💻 Author:
 **Diya Ghasadiya**
 
-If you found this project helpful, consider giving it a ⭐ on GitHub! and connect on [Linkedin](www.linkedin.com/in/diya-ghasadiya-16102005d)!
+If you found this project helpful, consider giving it a ⭐ on GitHub! and connect on [Linkedin](https://www.linkedin.com/in/diya-ghasadiya-16102005d)!
